@@ -1,0 +1,30 @@
+.first{
+    border: solid 2px red;
+
+}
+
+.parent{
+    border: solid 2px blue;
+    display: flex;
+    justify-content: center;
+}
+
+.sec{
+    border: solid 2px green;
+}
+
+.i1{
+    background-color: hsl(0, 100%, 67%);
+}
+
+.i2{
+    background-color:hsl(39, 100%, 56%)
+}
+
+.i3{
+    background-color:
+}
+
+.i4{
+    background-color:
+}
